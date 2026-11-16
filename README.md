@@ -205,8 +205,8 @@ asking naturally, or invoke it directly:
 
 ### claude.ai
 
-1. Download `codeatlas.zip` from the [latest release](https://github.com/ladrillopastabase/CodeAtlas/releases/latest),
-   or build it yourself: `cd CodeAtlas && zip -r codeatlas.zip codeatlas`
+1. Build the zip from a clone (the `codeatlas` folder must be at the top of
+   the zip): `cd CodeAtlas && zip -r codeatlas.zip codeatlas`
 2. Go to **Settings › Capabilities › Skills** and upload the zip.
 3. Attach or connect your code and ask for the manual.
 
